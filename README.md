@@ -88,5 +88,3 @@
 - Tutorial 2 - [Another Tutorial](https://anotherexample.com)
 
 ---
-
-## Navigation

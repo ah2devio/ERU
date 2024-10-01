@@ -7,6 +7,12 @@
 
 <p align="center">
   <img src="https://github.com/ah2devio/ERU/blob/main/_RES/fd_vs_mk4.gif" alt="adcs_intro"  align="center">
+  <p align="center">
+  <a href="#object-oriented-programming">OOP</a> - 
+  <a href="#logic-design">Logic Design</a> - 
+  <a href="#database-systems">Database Systems</a> - 
+  <a href="#system-design-and-analysis">System Design & Analysis</a>
+</p>
 </p>
 
 ---

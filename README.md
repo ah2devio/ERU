@@ -19,72 +19,61 @@
 
 ## Logic Design
 > Downloads
-- <a href="#">Logic Design Tools</a>
+- [Nothing for NOW]()
 
 > References
-- Logic Design Reference 1 - [Example Ref](https://example.com)
-- Logic Design Reference 2 - [Another Ref](https://anotherexample.com)
+- Logic Design Reference 1 - [Nothing for NOW]()
 
 > Visual Resources
-- Visual Resource 1 - [Example Visual](https://example.com)
-- Visual Resource 2 - [Another Visual](https://anotherexample.com)
+- Visual Resource 1 - [Nothing for NOW]()
 
 > Tutorials
-- Tutorial 1 - [Example Tutorial](https://example.com)
-- Tutorial 2 - [Another Tutorial](https://anotherexample.com)
+- Tutorial 1 -[Nothing for NOW]()
 
 ---
 
 ## Object-Oriented Programming
 > Downloads
-- <a href="#">OOP Tools</a>
+- [Nothing for NOW]()
 
 > References
-- OOP Reference 1 - [Example Ref](https://example.com)
-- OOP Reference 2 - [Another Ref](https://anotherexample.com)
+- OOP Reference 1 - [Nothing for NOW]()
 
 > Visual Resources
-- Visual Resource 1 - [Example Visual](https://example.com)
-- Visual Resource 2 - [Another Visual](https://anotherexample.com)
+- Visual Resource 1 - [Nothing for NOW]()
 
 > Tutorials
-- Tutorial 1 - [Example Tutorial](https://example.com)
-- Tutorial 2 - [Another Tutorial](https://anotherexample.com)
+- Tutorial 1 - [Nothing for NOW]()
 
 ---
 
 ## Database Systems
 > Downloads
-- <a href="#">Database Tools</a>
+- [Nothing for NOW]()
 
 > References
-- Database Reference 1 - [Example Ref](https://example.com)
-- Database Reference 2 - [Another Ref](https://anotherexample.com)
+- Database Reference 1 - [Nothing for NOW]()
 
 > Visual Resources
-- Visual Resource 1 - [Example Visual](https://example.com)
-- Visual Resource 2 - [Another Visual](https://anotherexample.com)
+- Visual Resource 1 - [Nothing for NOW]()
 
 > Tutorials
-- Tutorial 1 - [Example Tutorial](https://example.com)
-- Tutorial 2 - [Another Tutorial](https://anotherexample.com)
+- Tutorial 1 - [Nothing for NOW]()
+
 
 ---
 
 ## System Design and Analysis
 > Downloads
-- <a href="#">System Design Tools</a>
+- [Nothing for NOW]()
 
 > References
-- System Design Reference 1 - [Example Ref](https://example.com)
-- System Design Reference 2 - [Another Ref](https://anotherexample.com)
+- System Design Reference 1 - [Nothing for NOW]()
 
 > Visual Resources
-- Visual Resource 1 - [Example Visual](https://example.com)
-- Visual Resource 2 - [Another Visual](https://anotherexample.com)
+- Visual Resource 1 - [Nothing for NOW]()
 
 > Tutorials
-- Tutorial 1 - [Example Tutorial](https://example.com)
-- Tutorial 2 - [Another Tutorial](https://anotherexample.com)
+- Tutorial 1 - [Nothing for NOW]()
 
 ---

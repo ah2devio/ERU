@@ -22,7 +22,7 @@ If u can read this you will be as my enimes .
 
 ## Logic Design
 > Downloads
-- [Nothing for NOW]()
+- MultiSim (Free Online Vserion)  [from here.](https://www.multisim.com/)
 
 > References
 - Logic Design Reference 1 - [Nothing for NOW]()

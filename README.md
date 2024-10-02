@@ -44,7 +44,7 @@ If u can read this you will be as my enimes .
 - OOP Reference 1 - [Nothing for NOW]()
 
 > Visual Resources
-- Visual Resource 1 - [Nothing for NOW]()
+- why does inheritance suck? - [from here.](https://youtu.be/aq365yzrTVE?si=2FWLMlmmgqBg5zGv)
 
 > Tutorials
 - Tutorial 1 - [Nothing for NOW]()

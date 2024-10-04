@@ -30,7 +30,7 @@ If u can read this you will be as my enimes .
 > Visual Resources
 - Computers Suck at division, why? - [from here.](https://www.youtube.com/watch?v=ssDBqQ5f5_0)
 - What Is An FPGA? - [from here.](https://www.youtube.com/watch?v=gUsHwi4M4xE)
-
+- Software Emulators vs FPGAs - [from here.](https://www.youtube.com/watch?v=sMMiBEhnizE)
 > Tutorials
 - Tutorial 1 -[Nothing for NOW]()
 

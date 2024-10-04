@@ -47,6 +47,7 @@ If u can read this you will be as my enimes .
 - why does inheritance suck? - [from here.](https://youtu.be/aq365yzrTVE?si=2FWLMlmmgqBg5zGv)
 - is Object-Oriented Programming Bad? - [from here.](https://youtu.be/QM1iUe6IofM?si=DlDLOzxLfMkeWGa3)
 - Ditch your Favorite Programming Paradigm - [from here.](https://m.youtube.com/watch?v=UOkOA6W-vwc)
+- Ditch Your Favorite Programming Paradigm | Prime Reacts - [from here.](https://www.youtube.com/watch?v=ZqD_sUWmmzQ)
 > Tutorials
 - Tutorial 1 - [Nothing for NOW]()
 

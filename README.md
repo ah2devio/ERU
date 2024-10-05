@@ -32,7 +32,7 @@ If u can read this you will be as my enimes .
 - What Is An FPGA? - [from here.](https://www.youtube.com/watch?v=gUsHwi4M4xE)
 - Software Emulators vs FPGAs - [from here.](https://www.youtube.com/watch?v=sMMiBEhnizE)
 > Tutorials
-- Tutorial 1 -[Nothing for NOW]()
+- Binary Numbers - [from here.](https://www.electronics-tutorials.ws/binary/bin_1.html)
 
 ---
 

@@ -31,6 +31,7 @@ If u can read this you will be as my enimes .
 - Computers Suck at division, why? - [from here.](https://www.youtube.com/watch?v=ssDBqQ5f5_0)
 - What Is An FPGA? - [from here.](https://www.youtube.com/watch?v=gUsHwi4M4xE)
 - Software Emulators vs FPGAs - [from here.](https://www.youtube.com/watch?v=sMMiBEhnizE)
+- Exploring How Computers Work- [from here.](https://www.youtube.com/watch?v=QZwneRb-zqA)
 > Tutorials
 - Binary Numbers - [from here.](https://www.electronics-tutorials.ws/binary/bin_1.html)
 

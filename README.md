@@ -23,6 +23,7 @@ If u can read this you will be as my enimes .
 ## Logic Design
 > Downloads
 - MultiSim (Free Online Vserion)  [from here.](https://www.multisim.com/)
+- Logicly (Online Vserion)  [from here.](https://logic.ly/demo/samples)
 
 > References
 - Logic Design Reference 1 - [Nothing for NOW]()

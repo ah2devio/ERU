@@ -52,6 +52,7 @@ If u can read this you will be as my enimes .
 - Ditch your Favorite Programming Paradigm - [from here.](https://m.youtube.com/watch?v=UOkOA6W-vwc)
 - Ditch Your Favorite Programming Paradigm | Prime Reacts - [from here.](https://www.youtube.com/watch?v=ZqD_sUWmmzQ)
 - Functional Programming in 40 Minutes | Russ Olsen  - [from here.](https://www.youtube.com/watch?v=0if71HOyVjY)
+- Checked Exceptions are Evil  - [from here.](https://phauer.com/2015/checked-exceptions-are-evil/)
 > Tutorials
 - Tutorial 1 - [Nothing for NOW]()
 

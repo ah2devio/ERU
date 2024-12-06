@@ -11,7 +11,7 @@ If u can read this you will be as my enimes .
 <p align="center">
   <p align="center">
   <a href="#object-oriented-programming">OOP</a> - 
-  <a href="#logic-design">Logic Design</a> - 
+  <a href="#logic-design"> Logic Design</a> 
 </p>
 </p>
 

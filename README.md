@@ -12,8 +12,6 @@ If u can read this you will be as my enimes .
   <p align="center">
   <a href="#object-oriented-programming">OOP</a> - 
   <a href="#logic-design">Logic Design</a> - 
-  <a href="#database-systems">Database Systems</a> - 
-  <a href="#system-design-and-analysis">System Design & Analysis</a>
 </p>
 </p>
 
@@ -58,33 +56,3 @@ If u can read this you will be as my enimes .
 
 ---
 
-## Database Systems
-> Downloads
-- [Nothing for NOW]()
-
-> References
-- Database Reference 1 - [Nothing for NOW]()
-
-> Visual Resources
-- Visual Resource 1 - [Nothing for NOW]()
-
-> Tutorials
-- Tutorial 1 - [Nothing for NOW]()
-
-
----
-
-## System Design and Analysis
-> Downloads
-- [Nothing for NOW]()
-
-> References
-- System Design Reference 1 - [Nothing for NOW]()
-
-> Visual Resources
-- Visual Resource 1 - [Nothing for NOW]()
-
-> Tutorials
-- Tutorial 1 - [Nothing for NOW]()
-
----
